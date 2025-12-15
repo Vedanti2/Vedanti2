@@ -2,7 +2,7 @@
 <br>I’m **Vedanti Pallawe**, a final-year **B.Tech CSE undergraduate** with a strong academic foundation and hands-on experience in building responsive, user-focused web applications. I specialize in **frontend development** and am actively growing into **full-stack engineering**, with continuous practice in **Java DSA** and core CS fundamentals. I value clarity in code, consistency in learning, and real-world impact through projects.<br><br>---<br><br><br> 🎓 Educational background<br>B.Tech – Computer Science & Engineering<br>CSMSS Chh. Shahu College of Engineering (DBATU, Lonere)  <br>GPA: 8.87 / 10<br>📍 Chh. Sambhaji Nagar | 2022 – Present<br><br>---<br><br>🧭 Short Introduction<br>- 💻 Aspiring **Full Stack Developer**<br>- 🧠 Focused on **Java DSA & CS fundamentals**<br>- 🌱 Learning through projects, consistency, and discipline<br><br>---<br><br>✨ Philosophy<br>> *“Consistency compounds into excellence.”*<br>
 
 
-## 🌐 Socials:
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedanti-pallawe-987a1925a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedanti.pallawe@gmail.com) 
 
 
